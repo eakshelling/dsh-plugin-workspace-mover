@@ -1,0 +1,3 @@
+- insert:
+    - id: workspace-mover
+      name: 'dsh-plugin-workspace-mover'

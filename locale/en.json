@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Move sessions between workspaces",
+    "description": "Queue a session into another workspace from its context menu; applied on the next DeepSeek Harness start."
+  }
+}

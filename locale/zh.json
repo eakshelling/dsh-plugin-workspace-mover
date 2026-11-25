@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "会话跨工作区移动",
+    "description": "在会话右键菜单里把会话排队移动到另一个工作区，重启 DeepSeek Harness 后生效。"
+  }
+}
